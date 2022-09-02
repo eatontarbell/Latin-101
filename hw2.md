@@ -1,5 +1,5 @@
-1. Hercules **loved** Deianira. **___**
-2. Deianira **was loved** by Hercules. **___**
+1. Hercules **loved** Deianira. **amāvit**
+2. Deianira **was loved** by Hercules. **amātus**
 3. Juno **sent** serpents to kill Hercules. **___**
 4. The lion of Nemea **was killed** by Hercules. **___**
 5. Apollo **was given** into slavery to Admetus, king of Thessaly. **___**
