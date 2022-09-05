@@ -5,16 +5,16 @@
 - Imperfect Passive: Form =
 ***
 -**For third-person plural forms of "audio"**
--Perfect Active: Form = 
--Perfect Passive: Form = 
--Imperfect Active: Form = 
--Imperfect Passive: Form =
+- Perfect Active: Form = 
+- Perfect Passive: Form = 
+- Imperfect Active: Form = 
+- Imperfect Passive: Form =
 ***
 -**For third-person singular forms of "capio"**
--Perfect Active: Form = 
--Perfect Passive: Form = 
--Imperfect Active: Form = 
--Imperfect Passive: Form =
+- Perfect Active: Form = 
+- Perfect Passive: Form = 
+- Imperfect Active: Form = 
+- Imperfect Passive: Form =
 ***
 1. **uenērunt:** Person, Number, Tense, Mood, Voice
 2. **interfectus est:** Person, Number, Tense, Mood, Voice
