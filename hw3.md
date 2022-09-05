@@ -1,8 +1,8 @@
 -**For third-person singular forms of "amo"**
--Perfect Active: Form = 
--Perfect Passive: Form = 
--Imperfect Active: Form = 
--Imperfect Passive: Form =
+- Perfect Active: Form = 
+- Perfect Passive: Form = 
+- Imperfect Active: Form = 
+- Imperfect Passive: Form =
 ***
 -**For third-person plural forms of "audio"**
 -Perfect Active: Form = 
