@@ -1,4 +1,4 @@
-1. Hercules **loved** Deianira. **amāvit**
+1. Hercules **loved** Deianira. **amāuit**
 2. Deianira **was loved** by Hercules. **amāta est**
 3. Juno **sent** serpents to kill Hercules. **mīsit**
 4. The lion of Nemea **was killed** by Hercules. **necatus est**
