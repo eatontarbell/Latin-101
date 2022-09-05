@@ -20,4 +20,5 @@
 2. **interfectus est:** Person, Number, Tense, Mood, Voice
 3. **faciebat:** Person, Number, Tense, Mood, Voice
 4. **fugit:** Person, Number, Tense, Mood, Voice
-5. **habebantur:** Person, Number, Tense, Mood, Voice
+5. **habebantur:** 
+- Person=Third, Number=Plural, Tense=Past, Mood=Indicative, Voice=Passive
