@@ -6,7 +6,7 @@
 ***
 -**For third-person plural forms of "audio"**
 - Perfect Active: Form = audiuērunt
-- Perfect Passive: Form = audita sunt
+- Perfect Passive: Form = auditi sunt
 - Imperfect Active: Form = audibant
 - Imperfect Passive: Form = audibantur
 ***
