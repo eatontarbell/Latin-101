@@ -16,8 +16,8 @@
 - Imperfect Active: Form = capebat
 - Imperfect Passive: Form = capebatur
 ***
-1. **uenērunt:** Person=Third, Number=Plural, Tense=Perfect Past, Mood=Indicative, Voice=Active, 1st Principal Part=uenio
+1. **uenērunt:** Person=Third, Number=Plural, Tense=Perfect Past, Mood=Indicative, Voice=Active, 1st Principal Part=Uenio
 2. **interfectus est:** Person=Third, Number=Singular, Tense=Perfect Past, Mood=Indicative, Voice=Passive, 1st Principal Part=Interficio
-3. **faciebat:** Person=Third, Number=Singular, Tense=Imperfect Past, Mood=Indicative, Voice=Active, 1st Principal Part=facio
-4. **fugit:** Person=Third, Number=Singular, Tense=Perfect Past, Mood=Indicative, Voice=Active, 1st Principal Part=fugio
-5. **habebantur:** Person=Third, Number=Plural, Tense=Imperfect Past, Mood=Indicative, Voice=Passive, 1st Principal Part=habēre
+3. **faciebat:** Person=Third, Number=Singular, Tense=Imperfect Past, Mood=Indicative, Voice=Active, 1st Principal Part=Facio
+4. **fugit:** Person=Third, Number=Singular, Tense=Perfect Past, Mood=Indicative, Voice=Active, 1st Principal Part=Fugio
+5. **habebantur:** Person=Third, Number=Plural, Tense=Imperfect Past, Mood=Indicative, Voice=Passive, 1st Principal Part=Habēre
