@@ -51,4 +51,4 @@ Each of the following phrases comprises one noun in the nominative case describe
 - Gender: Neuter. Case: Nominative. Number: Plural.
 ---
 Translate the first noun phrase, amor Deianirae, into English. What are two different meanings that the phrase could have?
-- Latin phrase: amor Deianirae. English translation: xxxxx. The two meanings this phrase could have are xxxxxxxx.
+- Latin phrase: amor Deianirae. English translation: the love for Deianirae. Another meaning this phrase could have would be Deianirae loved.
