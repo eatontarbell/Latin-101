@@ -39,7 +39,7 @@ Each of the following phrases comprises one noun in the nominative case describe
 
 3. amor deorum
 - Amor = Gender: Masculine. Case: Nominative. Number: Singular.
-- Deorum = Gender: xxxx
+- Deorum = Gender: Masculine. Case: Genitive. Number: Plural.
 
 4. Herculis canis
 - Herculis = Gender: Masculine. Case: Genitive. Number: Singular.
@@ -51,7 +51,7 @@ Each of the following phrases comprises one noun in the nominative case describe
 
 6. filii deorum
 - Filii = Gender: Masculine. Case: Nominative. Number: Plural.
-- Deorum = Gender: xxxx.
+- Deorum = Gender: Masculine. Case: Genitive. Number: Plural.
 
 7. nomina filiorum
 - Nomina = Gender: Neuter. Case: Nominative. Number: Plural.
