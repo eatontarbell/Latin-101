@@ -58,4 +58,4 @@ Each of the following phrases comprises one noun in the nominative case describe
 - Filiorem = Gender: Masculine. Case: Genitive. Number: Plural.
 ---
 Translate the first noun phrase, amor Deianirae, into English. What are two different meanings that the phrase could have?
-- Latin phrase: amor Deianirae. English translation: the love of Deianirae. Another meaning this phrase: Deianirae's love.
+- The Latin phrase "amor Deianirae" could have two English translations: "the love of Deianirae" or "Deianirae's love."
