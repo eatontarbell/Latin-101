@@ -1,5 +1,5 @@
-1. The three genders of Latin nouns are 
-2. The three pieces of information in a Latin dictionary entry for a noun are 
+1. The three genders of Latin nouns are masculine, feminine, and neuter.
+2. The three pieces of information in a Latin dictionary entry for a noun are nominative singular form, genitive singular form, and gender(s).
 3. To figure out what declension a noun belongs to by
 4. To describe one noun with another noun in Latin, you use
 5. Latin uses
