@@ -9,6 +9,7 @@
 5. What case does Latin use to name the subject of a verb?
 - Latin uses
 ---
+Use these dictionary entries to answer the following questions:
 - amor, amoris m: “love”
 - canis, canis m or f: “dog”
 - deus, dei m: god
@@ -17,6 +18,7 @@
 - Hercules, Herculis m: “Hercules”
 - nomen, nominis n: “name”
 ---
+Each of the following phrases comprises one noun in the nominative case described by a noun in the genitive case. Identify the gender, case and number of each noun.
 1. amor Deianirae
 2. deus amoris
 3. amor deorum
@@ -25,4 +27,5 @@
 6. filii deorum
 7. nomina filiorum
 ---
+Translate the first noun phrase, amor Deianirae, into English. What are two different meanings that the phrase could have?
 Latin phrase: amor Deianirae. English translation: xxxxx. The two meanings this phrase could have are xxxxxxxx.
