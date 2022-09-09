@@ -34,7 +34,7 @@ Each of the following phrases comprises one noun in the nominative case describe
 - Deianirae = Gender: Feminine. Case: Genitive. Number: Singular.
 
 2. deus amoris
-- Deus = Gender: Masculine. Case: Genitive. Number: Singular.
+- Deus = Gender: Masculine. Case: Nominative. Number: Singular.
 - Amoris = Gender: Masculine. Case: Genitive. Number: Singular.
 
 3. amor deorum
