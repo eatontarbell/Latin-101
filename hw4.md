@@ -42,13 +42,13 @@ Each of the following phrases comprises one noun in the nominative case describe
 - Gender: Masculine. Case: xxxx. Number: Singular.
 
 5. nomen dei
-- Gender: xxxx. Case: xxxx. Number: xxxx
+- Gender: Neuter. Case: Nominative. Number: Singular.
 
 6. filii deorum
 - Gender: xxxx. Case: xxxx. Number: xxxx
 
 7. nomina filiorum
-Gender: xxxx. Case: xxxx. Number: xxxx
+Gender: Neuter. Case: Nominative. Number: Plural.
 ---
 Translate the first noun phrase, amor Deianirae, into English. What are two different meanings that the phrase could have?
 - Latin phrase: amor Deianirae. English translation: xxxxx. The two meanings this phrase could have are xxxxxxxx.
