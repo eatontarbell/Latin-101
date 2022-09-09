@@ -30,12 +30,25 @@ Use these dictionary entries to answer the following questions:
 ---
 Each of the following phrases comprises one noun in the nominative case described by a noun in the genitive case. Identify the gender, case and number of each noun.
 1. amor Deianirae
+- Gender: Masculine. Case: xxxx. Number: xxxx
+
 2. deus amoris
+- Gender: xxxx. Case: xxxx. Number: xxxx
+
 3. amor deorum
+- Gender: xxxx. Case: xxxx. Number: xxxx
+
 4. Herculis canis
+- Gender: xxxx. Case: xxxx. Number: xxxx
+
 5. nomen dei
+- Gender: xxxx. Case: xxxx. Number: xxxx
+
 6. filii deorum
+- Gender: xxxx. Case: xxxx. Number: xxxx
+
 7. nomina filiorum
+Gender: xxxx. Case: xxxx. Number: xxxx
 ---
 Translate the first noun phrase, amor Deianirae, into English. What are two different meanings that the phrase could have?
 - Latin phrase: amor Deianirae. English translation: xxxxx. The two meanings this phrase could have are xxxxxxxx.
