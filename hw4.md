@@ -43,7 +43,7 @@ Each of the following phrases comprises one noun in the nominative case describe
 
 4. Herculis canis
 - Herculis = Gender: Masculine. Case: Genitive. Number: Singular.
-- Canis = Masculine. Case: Genitive. Number: Singular.
+- Canis = Masculine. Case: Nominative. Number: Singular.
 
 5. nomen dei
 - Nomen = Gender: Neuter. Case: Nominative. Number: Singular.
