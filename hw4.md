@@ -1,3 +1,5 @@
+**+2 Satisfactory.  See comments below.**
+
 1. What are the three genders of Latin nouns?
 - The three genders of Latin nouns are masculine, feminine, and neuter.
 
@@ -27,7 +29,9 @@ Use these dictionary entries to answer the following questions:
 - Hercules, Herculis m: “Hercules”
 
 - nomen, nominis n: “name”
+
 ---
+
 Each of the following phrases comprises one noun in the nominative case described by a noun in the genitive case. Identify the gender, case and number of each noun.
 1. amor Deianirae
 - Amor = Gender: Masculine. Case: Nominative. Number: Singular.
@@ -59,3 +63,6 @@ Each of the following phrases comprises one noun in the nominative case describe
 ---
 Translate the first noun phrase, amor Deianirae, into English. What are two different meanings that the phrase could have?
 - The Latin phrase "amor Deianirae" could have two English translations: "the love of Deianirae" or "Deianirae's love."
+
+**⚠️ Can you clarify how these differ in meaning? Are they just two ways of saying the same thing in English?**
+
