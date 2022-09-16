@@ -1,7 +1,7 @@
 The phrases in bold are the ones being translated into Latin from English.
 
 1. **Meleager was the son of Oineus, king of Calydon.**
-- Latin Translation: Meleager filius Oinei regis Caludonis erat.
+- Latin Translation: Meleager filius erat Oinei, regis Caludonis.
 
 2. **His mother was Althaea.**
 - Latin Translation: Althaea mater eius erat.
