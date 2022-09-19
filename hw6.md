@@ -8,7 +8,7 @@
 - English Translation: Latona multa moneo, sed Nioba Latonae non audius.
 
 4. Apollo, the son of the latter woman, killed the sons of the former woman.
-- English Translation: Apollo __ filius 
+- English Translation: Apollo femina filius interfici feminae filii.
 
 5. His sister Diana killed her daughters.
 - English Translation: Is sorer Diana interfeci eius filia.
