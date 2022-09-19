@@ -19,5 +19,5 @@ The phrases in bold are the ones being translated into Latin from English.
 - Latin Translation (second bolded part): Formosa Deianira.✅
 
 6. **She was the daughter of Dexamenus**, according to some stories, but **the daughter of Oineus** in other versions.
-- Latin Translation (first bolded part): Dexameni filia erat.❌ **Correction: Ea Dexameni filia**
+- Latin Translation (first bolded part): Dexameni filia erat.❌ **Correction: Ea erat Dexameni filia**
 - Latin Translation (second bolded part): Filia Oinei.✅
