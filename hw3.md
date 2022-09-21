@@ -1,4 +1,5 @@
-**+1 Needs revisions**
+
+**+2 Satisfactory**
 
 
 -**For third-person singular forms of "amo"**
@@ -10,14 +11,14 @@
 -**For third-person plural forms of "audio"**
 - Perfect Active: Form = audiuērunt
 - Perfect Passive: Form = auditi sunt
-- Imperfect Active: Form = audibant❌ **Correction: audiebant**
-- Imperfect Passive: Form = audibantur❌ **Correction: audiebantur**
+- Imperfect Active: Form = audibant❌ **Correction: audiebant** ✅
+- Imperfect Passive: Form = audibantur❌ **Correction: audiebantur**  ✅
 ***
 -**For third-person singular forms of "capio"**
 - Perfect Active: Form = cēpit
 - Perfect Passive: Form = captum est
-- Imperfect Active: Form = capebat❌ **Correction: capiebat**
-- Imperfect Passive: Form = capebatur❌ **Correction: capiebatur**
+- Imperfect Active: Form = capebat❌ **Correction: capiebat** ✅
+- Imperfect Passive: Form = capebatur❌ **Correction: capiebatur** ✅
 ***
 1. **uenērunt:** Person=Third, Number=Plural, Tense=Perfect Past, Mood=Indicative, Voice=Active, 1st Principal Part=Uenio
 2. **interfectus est:** Person=Third, Number=Singular, Tense=Perfect Past, Mood=Indicative, Voice=Passive, 1st Principal Part=Interficio
