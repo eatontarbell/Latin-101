@@ -1,4 +1,4 @@
-**+1 Needs revisions**
+**+2 Satisfactory**
 
 The phrases in bold are the ones being translated into Latin from English.
 
