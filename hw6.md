@@ -5,7 +5,7 @@
 - Latin Translation: Amphion et Niobe multos liberos habebant.
 
 3. Leto repeatedly warned her, but Niobe did not listen to (“hear”) Leto.
-- Latin Translation: Latona Niobam monebat, sed Nioba non audius Latonae.
+- Latin Translation: Latona Niobam monebat, sed Nioba non audiebat Latonam.
 
 4. Apollo, the son of the latter woman, killed the sons of the former woman.
 - Latin Translation: Apollo feminae filius interfici feminae filii.
