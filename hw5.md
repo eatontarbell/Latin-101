@@ -15,7 +15,7 @@ The phrases in bold are the ones being translated into Latin from English.
 - Latin Translation: Althaeae fratres interfecti erant.❌ **Correction: Althaea fratrum interfecti sunt** .✅
 
 5. **A large number of his sisters** were changed into birds, but not **the beautiful Deianira.**
-- Latin Translation (first bolded part): Sororum numerus.❌ **Correction: Sororum multa is**
+- Latin Translation (first bolded part): Sororum numerus.❌ **Correction: Magnus numerus sororum eius**
 - Latin Translation (second bolded part): Formosa Deianira.✅
 
 6. **She was the daughter of Dexamenus**, according to some stories, but **the daughter of Oineus** in other versions.
