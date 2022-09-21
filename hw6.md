@@ -1,3 +1,5 @@
+**+2 Satisfactory**
+
 1. Niobe was the wife of Amphion.
 - Latin Translation: Nioba Amphionis uxor erat.
 
@@ -8,7 +10,7 @@
 - Latin Translation: Latona Niobam monebat, sed Nioba non audiebat Latonam.
 
 4. Apollo, the son of the latter woman, killed the sons of the former woman.
-- Latin Translation: Apollo huius filius, illius filios interfectit.
+- Latin Translation: Apollo huius filius, illius filios interfecit.
 
 5. His sister Diana killed her daughters.
 - Latin Translation: Soror eius Diana eius filias interfecit.
