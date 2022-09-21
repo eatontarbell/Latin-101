@@ -11,4 +11,4 @@
 - Latin Translation: Apollo huius filius, illius filios interfectit.
 
 5. His sister Diana killed her daughters.
-- Latin Translation: Is sorer Diana interfeci eius filiae.
+- Latin Translation: Is sorer Diana eius filias interfectit.
