@@ -1,5 +1,5 @@
 1. Niobe was the wife of Amphion.
-- Latin Translation: Nioba Amphionis uxoris.
+- Latin Translation: Nioba Amphionis uxor erat.
 
 2. Amphion and Niobe had many children.
 - Latin Translation: Amphion et Niobe multos liberos habebant.
