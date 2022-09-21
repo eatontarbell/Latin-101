@@ -8,7 +8,7 @@
 - Latin Translation: Latona Niobam monebat, sed Nioba non audiebat Latonam.
 
 4. Apollo, the son of the latter woman, killed the sons of the former woman.
-- Latin Translation: Apollo feminae filius interfici feminae filii.
+- Latin Translation: Apollo huius filius, illius filios interfectit.
 
 5. His sister Diana killed her daughters.
 - Latin Translation: Is sorer Diana interfeci eius filiae.
