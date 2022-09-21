@@ -12,7 +12,7 @@ The phrases in bold are the ones being translated into Latin from English.
 - Latin Translation: Illa femina erat filia Thestii.✅ **(Or just omit *femina*:  *illa* is enough!)**
 
 4. **The brothers of Althaea were killed** by Meleager.
-- Latin Translation: Althaeae fratres interfecti erant.❌ **Correction: Althaea fratrum erant interfeci**
+- Latin Translation: Althaeae fratres interfecti erant.❌ **Correction: Althaea fratrum sunt interfecti**
 
 5. **A large number of his sisters** were changed into birds, but not **the beautiful Deianira.**
 - Latin Translation (first bolded part): Sororum numerus.❌ **Correction: Sororum multa is**
