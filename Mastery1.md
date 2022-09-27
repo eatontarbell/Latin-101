@@ -8,17 +8,17 @@ Seven finite verbs in the paragraph listed on the assignment:
 7. Form found in excerpt: luctando. Person: ______. Number: ______. Tense: ______. Mood: ______. Voice: ______.
 
 Full declension of the phrase “the previous god” (prior deus):
-(S) Nominative:
-(S) Genitive:
-(S) Dative:
-(S) Accusative:
-(S) Ablative:
+(S) Nominative: prior deus
+(S) Genitive: prioris dei
+(S) Dative: priori deo
+(S) Accusative: priorem deum
+(S) Ablative: priore deo
 
-(P) Nominative:
-(P) Genitive:
-(P) Dative:
-(P) Accusative:
-(P) Ablative:
+(P) Nominative: priores dei
+(P) Genitive: priorum deorum
+(P) Dative: prioribus deis
+(P) Accusative: priores deum
+(P) Ablative: prioribus deo
 
  Declesions of “the former-mentioned ship” (as opposed to the “the latter-mentioned ship”):
 (S) Nominative:
