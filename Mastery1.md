@@ -34,13 +34,13 @@ Full declension of the phrase “the previous god” (prior deus):
 - (P) Ablative: illis navibus
 
 Third Person Singular Synopsis of the third person singular of capio in the indicative mood. Assume a feminine subject:
-Imperfect Active:
-Imperfect Passive:
-Perfect Active:
-Perfect Passive:
+- Imperfect Active: Capiebat
+- Imperfect Passive: Capiebatur
+- Perfect Active: Cepit
+- Perfect Passive: Captus est
 
 Third Person Singular Synopsis of the third person singular of uideo in the indicative mood. Assume a neuter subject:
-Imperfect Active:
-Imperfect Passive:
-Perfect Active:
-Perfect Passive:
+- Imperfect Active: Uidebat
+- Imperfect Passive: Uidebatur
+- Perfect Active: Uidit
+- Perfect Passive: Uisus est
