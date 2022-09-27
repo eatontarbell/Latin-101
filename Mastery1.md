@@ -37,7 +37,7 @@ Third Person Singular Synopsis of the third person singular of capio in the indi
 - Imperfect Active: Capiebat
 - Imperfect Passive: Capiebatur
 - Perfect Active: Cepit
-- Perfect Passive: Captus est
+- Perfect Passive: Captum est
 
 Third Person Singular Synopsis of the third person singular of uideo in the indicative mood. Assume a neuter subject:
 - Imperfect Active: Uidebat
