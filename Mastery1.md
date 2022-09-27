@@ -21,17 +21,17 @@ Full declension of the phrase “the previous god” (prior deus):
 - (P) Ablative: prioribus deis
 
  Declesions of “the former-mentioned ship” (as opposed to the “the latter-mentioned ship”):
-- (S) Nominative:
-- (S) Genitive:
-- (S) Dative:
-- (S) Accusative:
-- (S) Ablative:
+- (S) Nominative: illa navis
+- (S) Genitive: illius navis
+- (S) Dative: illi navi
+- (S) Accusative: illam navem
+- (S) Ablative: illa nave
 
-- (P) Nominative:
-- (P) Genitive:
-- (P) Dative:
-- (P) Accusative:
-- (P) Ablative:
+- (P) Nominative: illae naves
+- (P) Genitive: illarum navium
+- (P) Dative: illis navibus
+- (P) Accusative: illas naves
+- (P) Ablative: illis navibus
 
 Third Person Singular Synopsis of the third person singular of capio in the indicative mood. Assume a feminine subject:
 Imperfect Active:
