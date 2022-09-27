@@ -17,8 +17,8 @@ Full declension of the phrase “the previous god” (prior deus):
 - (P) Nominative: priores dei
 - (P) Genitive: priorum deorum
 - (P) Dative: prioribus deis
-- (P) Accusative: priores deum
-- (P) Ablative: prioribus deo
+- (P) Accusative: priores deos
+- (P) Ablative: prioribus deis
 
  Declesions of “the former-mentioned ship” (as opposed to the “the latter-mentioned ship”):
 - (S) Nominative:
