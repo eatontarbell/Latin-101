@@ -15,13 +15,13 @@
 - Armis is in the dative case.
 
 6. Explain the construction cum eo?
-- ______.
+- Cum is a preposition meaning with, which means that eo must be in the ablative. Without context, eo can be masculine or neuter, but since we have context, we can tell that eo is masculine in the sentence.
 
 7. Fully identify the form of fulmen. What function is it playing in the sentence? What type of sentence structure do we find in this sentence?
-- Person:______
+- Person: Third. Number: Singular. Tense: Perfect. Mood: Indicative. Voice: Active. In the sentece, fulman is the direct object. This sentence is a compound-complex sentence as there are 2 independant clauses and a dependant clause.
 
 8. Fully identify the form of apposita est.
-- Person: ______
+- Person: Third. Number: Singular. Tense: Imperfect. Mood: Indicative. Voice: Passive.
 
 9. What is the antecedent of eam?
 - The antecedent of eam is Hesione (or Hesiones as seen in excerpt).
