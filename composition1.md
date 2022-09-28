@@ -1,1 +1,1 @@
-Prometheus capere ignis deorum. Prometheus ignis dare homonis. Dei mitto Promethei, eius ignem homonibus. Aquila impetus cordis Promethei. Aquila interfecit sagitta Herculis.
+Prometheus capere ignis deorum. Ille ignis dare homonis. Dei mitto eum, eius ignem homonibus. Aquila impetus cordis Promethei. Aquila interfecit sagitta Herculis.
