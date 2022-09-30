@@ -36,3 +36,4 @@ Hercules killed Antaeus, son of the earth, in Libya. Here he was killing guests;
 ❌ Hesione's whale was attached to Troy. **Correction: Hesione put the whale next to Troy.**
  He killed him; 
  Laomedon, the father of Hesiones, because he did not return her, he killed with an arrow. ❓ **English?**
+ **Correction: He killed him; Laomedon, the father of Hesiones, was killed with an arrow because his daughter did not return.**
