@@ -5,3 +5,10 @@ Igniendum dare homonis ab ille.❌
 Dei mittebar eum, eius dare ignem homonibus. ❌
 Aquila impetebas cordis Promethei. ❌
 Aquila interfecit ab sagitta Herculis.❌
+
+**Corrected Composition is Below:**
+Prometheus captus est ignis deorum. 
+Igniendum dare homonis ab ille.
+Dei mittebar eum, eius dare ignem homonibus.
+Aquila impetebas cordis Promethei.
+Aquila interfecit ab sagitta Herculis.
