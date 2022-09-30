@@ -30,6 +30,6 @@
 ---
 Translation Into English: 
 Hercules killed Antaeus, son of the earth, in Libya. Here he was killing guests; he killed him by wrestling. He slew Cygnus, the son of Mars, with his arms. Mars came and contended with him with arms for his son's sake, but Jupiter sent a thunderbolt between them. 
-❌ Hesione's whale was attached to Troy.
+❌ Hesione's whale was attached to Troy. **Correction: Hesione put the whale next to Troy.**
  He killed him; 
  Laomedon, the father of Hesiones, because he did not return her, he killed with an arrow. ❓ **English?**
