@@ -9,6 +9,6 @@ Aquila interfecit ab sagitta Herculis.❌
 **Corrected Composition is Below:**
 Ignem deorum Prometheus cepit. 
 Igni dedit homones ab ille.
-Dei mittebar eum, eius dare ignem homonibus.
-Aquila impetebas cordis Promethei.
-Aquila interfecit ab sagitta Herculis.
+Di dismisit Prometheum, quod eius dare ignem homonibus.
+Aquila cordi Promethei impetebas.
+Hercules aquilam sagittis interfecit.
