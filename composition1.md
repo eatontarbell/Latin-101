@@ -7,7 +7,7 @@ Aquila impetebas cordis Promethei. ❌
 Aquila interfecit ab sagitta Herculis.❌
 
 **Corrected Composition is Below:**
-Prometheus ignem deorum cepit. 
+Ignis deorum a Prometheo captus est.
 Hic ignem homonibus dedit.
 Prometheum ab deis dismisit, quod eius dare ignem homonibus.
 Aquila cordi Promethei impetebas.
