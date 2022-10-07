@@ -11,4 +11,4 @@ Ignis deorum a Prometheo captus est.
 Ille eum hominibus dedit.
 Prometheum ab deis dismisit, quod eius dare ignem homonibus. 
 Aquila cordi Promethei impetebas.
-Hercules hanc sagittis interfecit.
+Hercules cor sagittis interfecit.
