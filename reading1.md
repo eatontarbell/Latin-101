@@ -14,7 +14,7 @@
 - Terrae is in the genitive case and it is working with the noun filius (or filius as seen in the excerpt).✅
 
 4. What is the antecedent of hic?
-- The antecedent of hic is Libya.❌ **Correction: The antecedent of hic is Antaeum**
+- The antecedent of hic is Libya.❌ **Correction: The antecedent of hic is Antaeus**
 
 5. What case is armis?
 - Armis is in the dative case.❌ **Correction: Armis is in the ablative case**
@@ -34,7 +34,7 @@
 ---
 Translation Into English: 
 Hercules killed Antaeus, son of the earth, in Libya. Here he was killing guests; he killed him by wrestling. He slew Cygnus, the son of Mars, with his arms. Mars came and contended with him with arms for his son's sake, but Jupiter sent a thunderbolt between them. 
-❌ Hesione's whale was attached to Troy. **Correction: Hesione put the whale next to Troy.**
+❌ Hesione's whale was attached to Troy. **Correction: Hesione was put next to a whale at Troy.**
  He killed him; 
  Laomedon, the father of Hesiones, because he did not return her, he killed with an arrow. ❓ **English?**
- **Correction: He killed him; Laomedon, the father of Hesiones, was killed with an arrow because his daughter did not return.**
+ **Correction: Hercules killed the whale; he also killed Laomedon, the father of Hesione, with arrows because he did not return her.**
