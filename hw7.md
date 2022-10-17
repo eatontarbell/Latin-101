@@ -2,16 +2,16 @@
 - English Translation: Daedalus made wings for himself and for his son Icarus.
 
 2. The pronoun in the sentence is sibi.
-- English Translation: Bacchus fell in love with Ariadne and married him.
+- English Translation: Bacchus loved himself and Ariadne and married her.
 
 3. The pronoun in the sentence is sibi.
-- English Translation: Pelopia seized the sword, and thrust it into his breast.
+- English Translation: Pelopia seized the sword, and stabbed himself in the chest.
 
 4. The pronoun in the sentence is sibi.
-- English Translation: Juno claimed the form of Venus Minerua.
+- English Translation: Juno claimed the form of Venus Minerua for himself.
 
 5. The pronoun in the sentence is sibi.
-- English Translation: Ulysses was tossed by the waves; Leucothea gave him a girdle, and he would bind his breast.
+- English Translation: Ulysses was tossed by the waves; Leucothea gave him a belt, and he bound his breast to himself.
 
 6. The pronoun in the first sentence is se. The pronoun in the second sentence is se.
 - English Translation: Achelous changed himself into all shapes as the river flowed. here he fought with Hercules on account of the marriage of Deianira, and turned himself into a bull.
