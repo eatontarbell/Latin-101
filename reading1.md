@@ -2,7 +2,7 @@
 
 `Antaeum`, terrae filium, in Libyā *Hercules* **occidit**. *hic* `hospites` **interficiebat**; `hunc` luctando *ille* **necauit**. `Cygnum`, Martis filium, armis **occidit**. *Mars* **uenit** et armis propter filium **contendit** cum `eo`❌, sed *Iouis* inter eos `fulmen` **misit**. ceto *Hesione* **apposita est** `Troiae`❌. *eum*❌ **occidit**; `Laomedonta`, patrem Hesiones, quod eam non reddebat, sagittis **interfecit**.
 
-- Corrected Sentences: *Mars* uenit et armis propter filium **contendit** cum `eo`, sed *Iouis* inter eos `fulmen` **misit**. `ceto` *Hesione* **apposita est** Troiae. eum **occidit**; `Laomedonta`, patrem Hesiones, quod eam non reddebat, sagittis **interfecit**.
+- Corrected Sentences: *Mars* uenit et armis propter filium **contendit** cum eo, sed *Iouis* inter eos `fulmen` **misit**. `ceto` *Hesione* **apposita est** Troiae. eum **occidit**; `Laomedonta`, patrem Hesiones, quod eam non reddebat, sagittis **interfecit**.
 ---
 
 1. See above. **Finite verbs**, *subjects*, and `direct objects` are marked using their respective highlights.
@@ -27,7 +27,7 @@
 **Correction: Gender: Neuter. Case: Accusative. Number: Singular.**
 
 8. Fully identify the form of apposita est.❌ 
-- Person: Third. Number: Singular. Tense: Imperfect. Mood: Indicative. Voice: Passive. **Correction: Gender: Feminine. Case: Ablative. Number: Singular**
+- Person: Third. Number: Singular. Tense: Imperfect. Mood: Indicative. Voice: Passive. **Correction: Person: Third. Number: Singular. Tense: Perfect. Mood: Indicative. Voice: Passive**
 
 9. What is the antecedent of eam?✅
 - The antecedent of eam is Hesione (or Hesiones as seen in excerpt).
