@@ -9,6 +9,6 @@ Aquila interfecit ab sagitta Herculis.❌
 **Corrected Composition is Below:**
 Ignis deorum a Prometheo captus est.
 Ille eum hominibus dedit.
-Illum ab deis dismisit propter dare ignem homonibus. 
-Aquila cor Promethei impetebas.
-Eum ab sagitta interfecit Hercules.
+Propter factum ille a deis dismissus est. 
+Aquila cor Promethei impetebat.
+Eam sagittis interfecit Hercules.
