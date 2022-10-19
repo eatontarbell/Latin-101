@@ -11,7 +11,7 @@
 - English Translation: Juno, Venus, and Minerua claimed beauty for themselves.
 
 5. The pronoun in the sentence is sibi.
-- English Translation: Ulysses was tossed by the waves; Leucothea gave him a belt, and he bound his breast to himself.
+- English Translation: Ulysses was tossed by the waves repeatedly; Leucothea gave him a garment, and he wrapped it around him for himself.
 
 6. The pronoun in the first sentence is se. The pronoun in the second sentence is se.
-- English Translation: Achelous changed himself into all shapes as the river flowed. here he fought with Hercules on account of the marriage of Deianira, and turned himself into a bull.
+- English Translation: Achelous changed himself into all shapes as the river flowed. Here he fought with Hercules on account of the marriage of Deianira, and turned himself into a bull.
