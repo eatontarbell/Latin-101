@@ -2,7 +2,7 @@
 - English Translation: Daedalus made wings for himself and for his son Icarus.
 
 2. The pronoun in the sentence is sibi.
-- English Translation: Bacchus loved himself and Ariadne and married her.
+- English Translation: Bacchus loved Ariadne, he married her for himself.
 
 3. The pronoun in the sentence is sibi.
 - English Translation: Pelopia seized the sword, and stabbed himself in the chest.
