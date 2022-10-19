@@ -5,10 +5,10 @@
 - English Translation: Bacchus loved Ariadne, he married her for himself.
 
 3. The pronoun in the sentence is sibi.
-- English Translation: Pelopia seized the sword, and stabbed himself in the chest.
+- English Translation: Pelopia seized the sword, and she thrust the sword into her chest for herself.
 
 4. The pronoun in the sentence is sibi.
-- English Translation: Juno claimed the form of Venus Minerua for himself.
+- English Translation: Juno, Venus, and Minerua claimed beauty for themselves.
 
 5. The pronoun in the sentence is sibi.
 - English Translation: Ulysses was tossed by the waves; Leucothea gave him a belt, and he bound his breast to himself.
