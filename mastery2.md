@@ -1,15 +1,15 @@
 “this foolish son” (hic imprudens filius).
-- Nominative Singular:
-- Genitive Singular:
-- Dative Singular:
-- Accusative Singular:
-- Ablative Singular:
+- Nominative Singular: hic imprudens filius
+- Genitive Singular: huius imprudentis filii
+- Dative Singular: huic imprudenti filio
+- Accusative Singular: hunc imprudentem filium
+- Ablative Singular: hoc imprudenti filio
 
-- Nominative Plural:
-- Genitive Plural:
-- Dative Plural:
-- Accusative Plural:
-- Ablative Plural:
+- Nominative Plural: hi imprudentes filii
+- Genitive Plural: horum imprudentium filiorum
+- Dative Plural: his imprudentibus filiis
+- Accusative Plural: hos imprudentes filios
+- Ablative Plural: his imprudentibus filis
 
 ---
 
