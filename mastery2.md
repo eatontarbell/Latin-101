@@ -1,23 +1,23 @@
 “this foolish son” (hic imprudens filius).
-Nominative Singular:
-Genitive Singular:
-Dative Singular:
-Accusative Singular:
-Ablative Singular:
+- Nominative Singular:
+- Genitive Singular:
+- Dative Singular:
+- Accusative Singular:
+- Ablative Singular:
 
-Nominative Plural:
-Genitive Plural:
-Dative Plural:
-Accusative Plural:
-Ablative Plural:
+- Nominative Plural:
+- Genitive Plural:
+- Dative Plural:
+- Accusative Plural:
+- Ablative Plural:
 
 ---
 
 1. Cydippe sent the oxen **into the fields**. Translation: USE PREPOSITION in WITH ACCUSATIVE PLURAL
 
-2. They did not return **with her sons**. Translation: __
+2. They did not return **with her sons**. Translation: USE PRONOUN CUM WITH THE ABLATIVE PLURAL FOR SONS, USE is, ea, id FOR THE HER PART (GENITIVE SINGULAR)
 
-3. **At that time**, the festival was due to begin. Translation: USE ABLATIVE
+3. **At that time**, the festival was due to begin. Translation: USE ABLATIVE SINGULAR, AND is, ea, id
 
 4. Cydippe **was not able to go** to the festival. Translation: __
 
