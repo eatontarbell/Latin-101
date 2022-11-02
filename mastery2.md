@@ -19,7 +19,7 @@
 
 3. **At that time**, the festival was due to begin. Translation: USE ABLATIVE SINGULAR, AND is, ea, id
 
-4. Cydippe **was not able to go** to the festival. Translation: __
+4. Cydippe **was not able to go** to the festival. Translation: USE POSSUM (WITH non BEFORE IT), IMPERFECT, USE ire FOR to go
 
 5. Cleops and Bitias **wanted to bring** their mother to the festival. Translation: __
 
