@@ -27,8 +27,8 @@
 
 7. They pulled the wagon **for many hours**. Translation: USE hora, horae, f. for the noun. USE multus, multa, multum for other part for the adjective - should agree in gender and case. USE ACCUSATIVE CASE AND PLURAL (it's not imperfect)
 
-8. When Cydippe was brought to the festival **by her sons**, all the onlookers were amazed. Translation: ab (or a) + ablative. Sons are in the ablative with ab.
+8. When Cydippe was brought to the festival **by her sons**, all the onlookers were amazed. Translation: ab (or a) + ablative. Sons are in the ablative with ab. "her" is in the ablative with ab?
 
-9. Cydippe asked the gods to grant **to her and to her sons** the best gift possible for mortals. Translation: two indirect objects (dative case). "Her sons" are dative and plural. "To her" needs a reflexive pronoun in the dative.
+9. Cydippe asked the gods to grant **to her and to her sons** the best gift possible for mortals. Translation: two indirect objects (dative case). "Her sons" are dative and plural. "To her" needs a reflexive pronoun in the dative. IGNORE "her" in "her sons" - it can just be "the sons"
 
 10. **That night**, they fell asleep and never woke up. Translation: nox, noctis, f. means night. Use is, ea, id to specifically say that night instead of night in general. No preposition. Ablative case.
