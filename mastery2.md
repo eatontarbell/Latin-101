@@ -13,13 +13,13 @@
 
 ---
 
-1. Cydippe sent the oxen **into the fields**. Translation: USE PREPOSITION in WITH ACCUSATIVE PLURAL
+1. Cydippe sent the oxen **into the fields**. Translation: in agros
 
-2. They did not return **with her sons**. Translation: USE PRONOUN CUM WITH THE ABLATIVE PLURAL FOR SONS, USE is, ea, id FOR THE HER PART (GENITIVE SINGULAR)
+2. They did not return **with her sons**. Translation: cum filiis eius
 
-3. **At that time**, the festival was due to begin. Translation: USE ABLATIVE SINGULAR, AND is, ea, id. USE TEMPOS, TEMPORIS?
+3. **At that time**, the festival was due to begin. Translation: tempori eo
 
-4. Cydippe **was not able to go** to the festival. Translation: USE POSSUM (WITH non BEFORE IT), IMPERFECT, USE ire FOR to go
+4. Cydippe **was not able to go** to the festival. Translation: non poterat ibat
 
 5. Cleops and Bitias **wanted to bring** their mother to the festival. Translation: WANTED IS VERB (uolo - it's irregular so check forms, not sure which principal part to use), TO BRING IS INFINITVE (use ago not ferro)
 
