@@ -19,13 +19,14 @@ Part B: Grammatical Questions
 - x
 
 5. Parse data est and indicate what conjugation the verb belongs to.
-- Conjugation: xxxxxx, Person: xxxxx, Number: xxxx, Tense: xxxxx, Mood: xxxxx, Voice: xxxxx
+- Conjugation: First, Person: xxxxx, Number: xxxx, Tense: xxxxx, Mood: xxxxx, Voice: xxxxx
 
 6. What type of grammatical construction is ab Iove?
-- 
+- ab Iove is the means of the action (it is in the ablative case). 
 
 7. What tense is erat and what are the principle parts of the verb it comes from?
--
+- erat is in the imperfect tense. The principle parts of the verb it came from are Sum, Esse, Fui, (nothing)
+
 ---
 
 Part C: Translation
