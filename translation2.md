@@ -16,10 +16,10 @@ Part B: Grammatical Questions
 - huic is a demonstrative pronoun. It is in dative case. It agrees with luto.
 
 4. Identify the sentence structure of omnēs deī dōna eī misērunt (linking, transitive active, transitive passive or intransitive) and the grammatical function of each word in the sentence.
-- x
+- The sentence structure of omnēs deī dōna eī misērunt is linking. The grammatical functions of each word is as follows - omnes: Predicate - dei: Subject (nominative plural) - dona: direct object - ei: Indirect Object - Miserunt: verb
 
 5. Parse data est and indicate what conjugation the verb belongs to.
-- Conjugation: First, Person: xxxxx, Number: xxxx, Tense: xxxxx, Mood: xxxxx, Voice: xxxxx
+- Conjugation: First, Person: Third, Number: Singular, Tense: Perfect, Mood: Indicative, Voice: Passive
 
 6. What type of grammatical construction is ab Iove?
 - ab Iove is the means of the action (it is in the ablative case). 
