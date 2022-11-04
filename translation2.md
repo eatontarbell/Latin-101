@@ -12,7 +12,6 @@ Part B: Grammatical Questions PARSE MEANS IDENTIFY PERSON, NUMBER, TENSE, MOOD, 
 2. Parse fingēbat and tell me what conjugation it belongs to.
 - Conjugation: xxxxxx, Person: Third, Number: Singular, Tense: xxxxx, Mood: xxxxx, Voice: xxxxx
 
-
 3. What type of adjective is huic, what case is it in, and what word does it agree with?
 - 
 
