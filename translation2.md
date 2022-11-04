@@ -29,4 +29,4 @@ Part B: Grammatical Questions PARSE MEANS IDENTIFY PERSON, NUMBER, TENSE, MOOD, 
 ---
 
 Part C: Translation
-Once upon a time, Promethius
+Long ago, Prometheus, the first son of Iapetus, fashioned men from mud. At the same time, Vulcan made a woman out of mud. Minerva gave the soul of this woman, and all the gods sent gifts to her. For this reason the name "Pandora" was given to her. Pandora was given by Jove in marriage to Epimetheus. Their daughter was Pyrrha, the first mortal.
