@@ -4,22 +4,22 @@ Olim *Prometheus*, Iapetī fīlius prīmus, hominēs ex lutō **fingēbat**. Sim
 
 ---
 
-Part B: Grammatical Questions PARSE MEANS IDENTIFY PERSON, NUMBER, TENSE, MOOD, AND VOICE
+Part B: Grammatical Questions
 
 1. What is the grammatical function of Iapetī fīlius prīmus?
-- x
+- The grammatical function of "Iapetī fīlius prīmus" is to connect back to the subject. The part "fīlius prīmus" is in the nominative because it is connected to Promethius (the subject) and the part "Iapeti" is in the genitive because it is describing another noun (again, Promesthius).
 
 2. Parse fingēbat and tell me what conjugation it belongs to.
-- Conjugation: xxxxxx, Person: Third, Number: Singular, Tense: xxxxx, Mood: xxxxx, Voice: xxxxx
+- Conjugation: Third, Person: Third, Number: Singular, Tense: Imperfect, Mood: Indicative, Voice: Active
 
 3. What type of adjective is huic, what case is it in, and what word does it agree with?
-- 
+- huic is a demonstrative pronoun. It is in dative case. It agrees with luto.
 
 4. Identify the sentence structure of omnēs deī dōna eī misērunt (linking, transitive active, transitive passive or intransitive) and the grammatical function of each word in the sentence.
 - x
 
 5. Parse data est and indicate what conjugation the verb belongs to.
-- 
+- Conjugation: xxxxxx, Person: xxxxx, Number: xxxx, Tense: xxxxx, Mood: xxxxx, Voice: xxxxx
 
 6. What type of grammatical construction is ab Iove?
 - 
