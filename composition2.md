@@ -1,18 +1,7 @@
-1 Cydippe misso boves in agrum, sed illis non aderant ad tempus.
-
-2 Sacra duci debebant et sacerdos non adfui templum, sed Clydippe do non se uiam 
-
-3 Cleops et Bitias iunxerunt sub iugo.
-
-4 Ille tractabant Clydippen, illorum mater, in plaustro.
-
-5 Propter magnum factum, Clydippen precabatur ad deis.
-
-6 Illa nocte, filii aquiverunt quad fessi et non surgebant.
-
-7 Mori optimum donum est mortalibus.
-
-
-fanum
-numquam
-quam
+Cydippe misso boves in agrum, sed illis non aderant ad tempus. 
+Sacra duci debebant et sacerdos numquam adfui templum, sed datum se non in uiam. 
+Cleops et Bitias volebat deducere fanum matrem, illi iunxerunt sub iugo.
+Ille tractabant Clydippen, illorum mater, in plaustro plus quam unus hora.
+Propter magnum factum, Clydippen precabatur ad deis.
+Illa nocte, filii aquiverunt quad fessi et non surgebant.
+Mori optimum donum est mortalibus.
