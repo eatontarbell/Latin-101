@@ -6,7 +6,7 @@
 
 4 Ille tractabant Clydippen, illorum mater, in plaustro.
 
-5 accusative for timing component, dative case for praying to the gods, precabatur or precata est 
+5 Propter magnum factum, Clydippen precabatur ad deis.
 
 6 Illa nocte, filii aquiverunt quad fessi et non surgebant.
 
