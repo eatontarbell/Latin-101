@@ -1,6 +1,6 @@
-1 Cydippe misso bobus in agrum, sed illis non aderant ad tempus.
+1 Cydippe misso boves in agrum, sed illis non aderant ad tempus.
 
-2 Sacra duci debebant et sacerdotis non adfui, sed Clydippe do non se uiam 
+2 Sacra duci debebant et sacerdos non adfui templum, sed Clydippe do non se uiam 
 
 3 Cleops et Bitias iunxerunt sub iugo.
 
@@ -10,4 +10,9 @@
 
 6 Illa nocte, filii aquiverunt quad fessi et non surgebant.
 
-7 "to die is the best gift for mortals" Subject is to die (nominative case), use mori for to die (drop the i I think and put the right ending), for the best gift gift part use optimum donum (but put in the right case and whatnot)
+7 Mori optimum donum est mortalibus.
+
+
+fanum
+numquam
+quam
