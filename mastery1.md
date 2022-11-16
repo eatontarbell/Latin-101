@@ -1,4 +1,4 @@
-**#+2 Satisfactory.**
+**+2 Satisfactory**
 
 Seven finite verbs in the paragraph listed on the assignment (in order):
 1. Form found in excerpt: occidit. Person: Third. Number: Singular. Tense: Perfect. Mood: Indicative. Voice: Active. ✅
