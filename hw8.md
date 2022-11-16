@@ -1,4 +1,4 @@
-1. Although the Greeks **had been** in Troy for ten years, the war was not over.
+Although the Greeks **had been** in Troy for ten years, the war was not over.
 - fuissent
 
 When the Greeks **captured** the city, many people were killed. (“When” refers to the circumstance, not time.)
