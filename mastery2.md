@@ -1,4 +1,6 @@
-“this foolish son” (hic imprudens filius).
+**+1 Very good. Needs minor revisions**
+
+“this foolish son” (hic imprudens filius). ✅
 - Nominative Singular: hic imprudens filius
 - Genitive Singular: huius imprudentis filii
 - Dative Singular: huic imprudenti filio
@@ -17,17 +19,17 @@
 
 2. They did not return **with her sons**. Translation: cum filiis eius
 
-3. **At that time**, the festival was due to begin. Translation: tempori eo
+3. **At that time**, the festival was due to begin. Translation: tempori❌ eo 
 
-4. Cydippe **was not able to go** to the festival. Translation: non poterat ibat
+4. Cydippe **was not able to go** to the festival. Translation: non poterat ibat❌
 
-5. Cleops and Bitias **wanted to bring** their mother to the festival. Translation: uolebant agebant
+5. Cleops and Bitias **wanted to bring** their mother to the festival. Translation: uolebant agebant❌
 
 6. They yoked **themselves** to a wagon. Translation: se
 
 7. They pulled the wagon **for many hours**. Translation: horas multas
 
-8. When Cydippe was brought to the festival **by her sons**, all the onlookers were amazed. Translation: a filiis ea
+8. When Cydippe was brought to the festival **by her sons**, all the onlookers were amazed. Translation: a filiis ea❌
 
 9. Cydippe asked the gods to grant **to her and to her sons** the best gift possible for mortals. Translation: sibi ei filiis  
 
