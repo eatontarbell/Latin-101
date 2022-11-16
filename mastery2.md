@@ -1,4 +1,4 @@
-**+1 Very good. Needs minor revisions**
+**+2 Satisfactory**
 
 “this foolish son” (hic imprudens filius). ✅
 - Nominative Singular: hic imprudens filius
@@ -23,10 +23,10 @@
 -**Correction: tempore eo** ✅
 
 4. Cydippe **was not able to go** to the festival. Translation: non poterat ibat❌
--**Correction: non potuit iit**
+-**Correction: non potuit ire** ✅
 
 5. Cleops and Bitias **wanted to bring** their mother to the festival. Translation: uolebant agebant❌
--**Correction: uolebant ducebant**
+-**Correction: uolebant ducere** ✅
 
 6. They yoked **themselves** to a wagon. Translation: se
 
