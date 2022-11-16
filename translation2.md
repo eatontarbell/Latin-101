@@ -1,4 +1,4 @@
-**+1 Good! Needs minor revisions**
+**+2 Satisfactory**
 
 Part A: Subjects in the excerpt below are denoted like *this* and verbs are denoted like **this**.
 
@@ -16,18 +16,18 @@ Part B: Grammatical Questions
 
 3. What type of adjective is huic, what case is it in, and what word does it agree with?
 - huic is a demonstrative pronoun. It is in dative case. It agrees with luto.❌
-- **Correction: It agrees with feminae**
+- **Correction: It agrees with feminae**  ✅
 
 4. Identify the sentence structure of omnēs deī dōna eī misērunt (linking, transitive active, transitive passive or intransitive) and the grammatical function of each word in the sentence.
 - The sentence structure of omnēs deī dōna eī misērunt is linking❌. The grammatical functions of each word is as follows - omnes: Predicate - dei: Subject (nominative plural) - dona: direct object - ei: Indirect Object - Miserunt: verb
-- **Correction: The sentence structure of omnēs deī dōna eī misērunt is transitive active**
+- **Correction: The sentence structure of omnēs deī dōna eī misērunt is transitive active**  ✅
 
 5. Parse data est and indicate what conjugation the verb belongs to.
 - Conjugation: First, Person: Third, Number: Singular, Tense: Perfect, Mood: Indicative, Voice: Passive
 
 6. What type of grammatical construction is ab Iove?
 - ab Iove is the means❌ of the action (it is in the ablative case). 
-- **Correction: ab Iove is the agent**
+- **Correction: ab Iove is the agent**  ✅
 
 7. What tense is erat and what are the principle parts of the verb it comes from?
 - erat is in the imperfect tense. The principle parts of the verb it came from are Sum, Esse, Fui, (nothing)
@@ -37,4 +37,4 @@ Part B: Grammatical Questions
 Part C: Translation
 Long ago, Prometheus, the first son of Iapetus, fashioned men from mud. At the same time, Vulcan made a woman out of mud. Minerva gave the soul of this woman❓, and all the gods sent gifts to her. For this reason the name "Pandora" was given to her. Pandora was given by Jove in marriage to Epimetheus. Their daughter was Pyrrha, the first mortal.
 
-**Correction: Minerva gave the soul to the woman,**
+**Correction: Minerva gave the soul to the woman,**  ✅
