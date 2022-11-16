@@ -27,7 +27,7 @@ Part B: Grammatical Questions
 
 6. What type of grammatical construction is ab Iove?
 - ab Iove is the means❌ of the action (it is in the ablative case). 
-- **Correction: ab Iove is the instrument as Iove is the one giving her, so it basically means "by Iove"**
+- **Correction: ab Iove is the agent**
 
 7. What tense is erat and what are the principle parts of the verb it comes from?
 - erat is in the imperfect tense. The principle parts of the verb it came from are Sum, Esse, Fui, (nothing)
