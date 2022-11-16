@@ -20,7 +20,7 @@
 2. They did not return **with her sons**. Translation: cum filiis eius
 
 3. **At that time**, the festival was due to begin. Translation: tempori❌ eo 
--**Correction: tempore eo**
+-**Correction: tempore eo** ✅
 
 4. Cydippe **was not able to go** to the festival. Translation: non poterat ibat❌
 -**Correction: non potuit iit**
@@ -33,7 +33,7 @@
 7. They pulled the wagon **for many hours**. Translation: horas multas
 
 8. When Cydippe was brought to the festival **by her sons**, all the onlookers were amazed. Translation: a filiis ea❌
--**Correction: a filiis**
+-**Correction: a filiis**  ✅
 
 9. Cydippe asked the gods to grant **to her and to her sons** the best gift possible for mortals. Translation: sibi ei filiis  
 
