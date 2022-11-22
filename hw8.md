@@ -1,3 +1,4 @@
+**+2 Satisfactory**
 Although the Greeks **had been** in Troy for ten years, the war was not over.
 - fuissent
 
