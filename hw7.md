@@ -10,7 +10,7 @@
 4. The pronoun in the sentence is sibi (dative).
 - English Translation: Juno, Venus, and Minerua claimed beauty for themselves.
 
-5. The pronoun in the sentence is sibi (dative).
+5. One pronoun in the sentence is sibi (dative). The other pronoun is ei (masculine, singular, dative).
 - English Translation: Ulysses was tossed by the waves repeatedly; Leucothea gave him a garment, and he wrapped it around him for himself.
 
 6. The pronoun in the first sentence is se (accusative). The pronoun in the second sentence is se (accusative).
