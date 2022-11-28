@@ -15,9 +15,9 @@ A: Grammatical Questions.
 
 5. collecti sunt- Person: Third, Number: Plural, Tense: Perfect, Mood: Indicative, Voice: Passive.
 
-6. cum id Troiani viderunt is indicative because it is telling us about time. cum is __ part of speech
+6. cum id Troiani viderunt is indicative because it is telling us about time. cum is a prepostion.
 
-7. ei in line six is in the __ case and its function in the sentence is _.
+7. ei in line six is in the nomitive case and its function in the sentence is to connect back to the plural subject from the previous clause.
 
 8. exierunt comes from the irregular verb exeo.
 
