@@ -1,46 +1,29 @@
-PAST PASSAGE HERE
+Cum Achīvī decem annōs in Troia fuissent, *Epeus* mirae magnitūdinis equum ligneum fēcit. In eō collēctī sunt Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, Neoptolemus. et in equō scripsērunt “DANAI MINERVAE DONUM DEDERUNT, castraque transtulērunt Tenedo. Cum id *Troianī* **vidērunt**, *Priamus* equum in templum Minervae **duxit**. Cum Cassandra **diceret** *equum* **habere** hostes, fidēs eī non **data est** et equum pro templō **posuērunt**. Achīvī exiērunt et custodēs occidērunt et Troiam sunt potitī.
 
 ---
 A: Grammatical Questions.
 
-1. x
+1. Finite verbs have been highlighted like **this** and subjects have been highlighted like *this*.
 
-2. The case of decem annos is __ and the use of the case is _.
+2. The case of decem annos is nominative and the use of the case is to describe the length of time the Greeks had been in Troy.
 
-3. fuissent- Person: xxxx, Number: xxxx, Tense:xxxx, Mood: xxxx, Voice: xxxx. 
-The mood of fuissent is __ which shows that _.
-FUISSENT IS PLUPERFECT SUBJUNCTIVE, 3rd plural, tense is Achivi
+3. fuissent- Person: Third, Number: Plural, Tense: Pluperfect, Mood: Subjunctive, Voice: Active. 
+- The mood of fuissent is subjunctive which shows that there is an element of uncertainty as to how long the Greeks had been in Troy.
 
-4. mirae magnitudinis- Case: xxxx, Number: xxxx, Gender: xxxx.
-In the sentence, mirae magnitudinis is functioning as __ in the sentence.
+4. mirae magnitudinis- Case: Genitive, Number: Singular, Gender: Feminine.
+In the sentence, mirae magnitudinis is functioning as a description of another noun. It translates to "of surprising size" which is describing the wooden horse the Epeus made.
 
-5. collecti sunt- Person: xxxx, Number: xxxx, Tense:xxxx, Mood: xxxx, Voice: xxxx.
+5. collecti sunt- Person: xxxx, Number: xxxx, Tense: Perfect, Mood: xxxx, Voice: Passive.
 PASSIVE, TENSE IS PERFECT, plural, masculine, subject is all of the names
 
-6. cum id Troiani viderunt is a ___ clause. cum is __ part of speech
-CUM IS WITH THE INDICATIVE SO ITS TELLING ABOUT TIME
-
+6. cum id Troiani viderunt is indicative because it is telling us about time. cum is __ part of speech
 
 7. ei in line six is in the __ case and its function in the sentence is _.
 
-8. exierunt comes from the irregular verb __
+8. exierunt comes from the irregular verb exeo.
 
 ---
 
 B: Translation.
 
----
-Notes: delete once this assignment is completed
-
-- subject for any finite verb: nominative
-- Subordinate claus is indtroduced by a subordinating conjunction
-- circumstance is subjunctive, time is indicative
-- indriect statement: use infinitive form... subject in accusative
-- fecit in first sentence is perfect active, 3rd, singular... subject is Epeus
-- the quote functions as a direct object (the all caps part)
-- verb in is viderunt in "cum id Troiani viderunt", the subject is Troiani, the direct object is id
-- verb in following clause is duxit, suject is Priamus, direct object is equum
-- next sentence: verb is diceret, subject is , direct object is 
-- following clause: verb is habere, subject is equum, direct object is hostes
-- following clause: data est is verb,
-- following clause: verb is posuerunt, direct object is equum, 
+When Achivi had been ten years in Troy, Epeus made a wooden horse of wonderful size. In that collection are Menelaus, Ulysses, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, and Neoptolemus. and on the horse they wrote, "DANAI GAVE A GIFT TO MINERVA, and transferred the camp to Tenedo." When the Trojans saw this, Priam led the horse into the temple of Minerva. When Cassandra said that the enemy had a horse, they did not believe her and they put the horse as a temple. They went out to Achīvī and killed the guards and took possession of Troy.
