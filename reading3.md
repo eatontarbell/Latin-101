@@ -11,10 +11,9 @@ A: Grammatical Questions.
 - The mood of fuissent is subjunctive which shows that there is an element of uncertainty as to how long the Greeks had been in Troy.
 
 4. mirae magnitudinis- Case: Genitive, Number: Singular, Gender: Feminine.
-In the sentence, mirae magnitudinis is functioning as a description of another noun. It translates to "of surprising size" which is describing the wooden horse the Epeus made.
+- In the sentence, mirae magnitudinis is functioning as a description of another noun. It translates to "of surprising size" which is describing the wooden horse the Epeus made.
 
-5. collecti sunt- Person: xxxx, Number: xxxx, Tense: Perfect, Mood: xxxx, Voice: Passive.
-PASSIVE, TENSE IS PERFECT, plural, masculine, subject is all of the names
+5. collecti sunt- Person: Third, Number: Plural, Tense: Perfect, Mood: Indicative, Voice: Passive.
 
 6. cum id Troiani viderunt is indicative because it is telling us about time. cum is __ part of speech
 
