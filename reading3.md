@@ -1,3 +1,6 @@
+PAST PASSAGE HERE
+
+---
 A: Grammatical Questions.
 
 1. x
@@ -15,6 +18,8 @@ In the sentence, mirae magnitudinis is functioning as __ in the sentence.
 PASSIVE, TENSE IS PERFECT, plural, masculine, subject is all of the names
 
 6. cum id Troiani viderunt is a ___ clause. cum is __ part of speech
+CUM IS WITH THE INDICATIVE SO ITS TELLING ABOUT TIME
+
 
 7. ei in line six is in the __ case and its function in the sentence is _.
 
@@ -32,3 +37,10 @@ Notes: delete once this assignment is completed
 - circumstance is subjunctive, time is indicative
 - indriect statement: use infinitive form... subject in accusative
 - fecit in first sentence is perfect active, 3rd, singular... subject is Epeus
+- the quote functions as a direct object (the all caps part)
+- verb in is viderunt in "cum id Troiani viderunt", the subject is Troiani, the direct object is id
+- verb in following clause is duxit, suject is Priamus, direct object is equum
+- next sentence: verb is diceret, subject is , direct object is 
+- following clause: verb is habere, subject is equum, direct object is hostes
+- following clause: data est is verb,
+- following clause: verb is posuerunt, direct object is equum, 
