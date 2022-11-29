@@ -1,4 +1,4 @@
-Cum Achīvī decem annōs in Troia fuissent, *Epeus* mirae magnitūdinis equum ligneum fēcit. In eō collēctī sunt Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, Neoptolemus. et in equō scripsērunt “DANAI MINERVAE DONUM DEDERUNT, castraque transtulērunt Tenedo. Cum id *Troianī* **vidērunt**, *Priamus* equum in templum Minervae **duxit**. Cum Cassandra **diceret** *equum* **habere** hostes, fidēs eī non **data est** et equum pro templō **posuērunt**. Achīvī exiērunt et custodēs occidērunt et Troiam sunt potitī.
+Cum *Achīvī* decem annōs in Troia **fuissent**, *Epeus* mirae magnitūdinis equum ligneum fēcit. In eō **collēctī sunt** *Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, Neoptolemus*. et in equō scripsērunt “DANAI MINERVAE DONUM DEDERUNT, castraque transtulērunt Tenedo. Cum id *Troianī* **vidērunt**, *Priamus* equum in templum Minervae **duxit**. Cum Cassandra **diceret** *equum* **habere** hostes, fidēs eī non **data est** et equum pro templō **posuērunt**. Achīvī exiērunt et custodēs occidērunt et Troiam sunt potitī.
 
 ---
 A: Grammatical Questions.
@@ -25,4 +25,4 @@ A: Grammatical Questions.
 
 B: Translation.
 
-When Achivi had been ten years in Troy, Epeus made a wooden horse of wonderful size. In that collection are Menelaus, Ulysses, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, and Neoptolemus. and on the horse they wrote, "DANAI GAVE A GIFT TO MINERVA, and transferred the camp to Tenedo." When the Trojans saw this, Priam led the horse into the temple of Minerva. When Cassandra said that the enemy had a horse, they did not believe her and they put the horse as a temple. They went out to Achīvī and killed the guards and took possession of Troy.
+When the Greeks had been in Troy for ten years, Epeus made a wooden horse of amazing size. Menelaus, Ulysses, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, and Neoptolemus gathered in it. And on the horse they wrote, "THE GREEKS GAVE A GIFT TO MINERVA", and transferred it to the military camp of the Tenedos. When the Trojans saw this, Priam led the horse into the temple of Minerva. When Cassandra said that the horse held enemies, they did not believe her and they put the horse at the temple. The Greeks went out and killed the guards and took possession of Troy.
