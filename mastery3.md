@@ -9,10 +9,10 @@ Duco femine, 3rd, singular
 - Pluperfect Subjunctive (passive): Ductus Esset
 
 Infinitive of duco
-- Present (active): 
-- Present (passive):
-- Perfect (active):
-- Perfect (passive):
+- Present (active): Ducere
+- Present (passive): Duci
+- Perfect (active): Duxisse
+- Perfect (passive): Ductus Esse
 
 ---
 
@@ -27,10 +27,10 @@ Audio masculine, 3rd, plural
 - Pluperfect Subjunctive (passive): Auditi Essent
 
 Infinitive of audio
-- Present (active):
-- Present (passive):
-- Perfect (active):
-- Perfect (passive):
+- Present (active): Audire
+- Present (passive): Audiri
+- Perfect (active): Audivisse
+- Perfect (passive): Auditus Esse
 
 ---
 sum 3rd, singular
