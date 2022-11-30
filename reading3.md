@@ -17,7 +17,7 @@ A: Grammatical Questions.
 
 6. cum id Troiani viderunt is indicative because it is telling us about time. cum is a subordinating conjunction.
 
-7. ei in line six is in the nomitive case and its function in the sentence is to connect back to the plural subject from the previous clause.
+7. ei in line six is in the dative case and its function in the sentence is to connect back to Cassandra.
 
 8. exierunt comes from the irregular verb exeo.
 
