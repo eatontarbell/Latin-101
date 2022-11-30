@@ -1,18 +1,18 @@
-Duco femine, 3rd, singular
+Duco feminine, 3rd, singular
 - Imperfect Indicative (active): Ducebat
 - Imperfect Indicative (passive): Ducebatur
 - Imperfect Subjunctive (active): Duceret
 - Imperfect Subjunctive (passive): Duceretur
 - Perfect Indicative(active): Duxit
-- Perfect Indicative (passive): Ducti Sumus
+- Perfect Indicative (passive): Ducta Est
 - Pluperfect Subjunctive (active): Duxisset
-- Pluperfect Subjunctive (passive): Ductus Esset
+- Pluperfect Subjunctive (passive): Ducta Esset
 
 Infinitive of duco
 - Present (active): Ducere
 - Present (passive): Duci
 - Perfect (active): Duxisse
-- Perfect (passive): Ductus Esse
+- Perfect (passive): Ducta Esse
 
 ---
 
@@ -30,7 +30,7 @@ Infinitive of audio
 - Present (active): Audire
 - Present (passive): Audiri
 - Perfect (active): Audivisse
-- Perfect (passive): Auditus Esse
+- Perfect (passive): Auditi Esse
 
 ---
 sum 3rd, singular
