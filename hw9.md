@@ -3,6 +3,6 @@
 3. Duces Achiuorum se abscondiderunt in equo.
 4. Cassandra dixit duces Achiuorum se abscondidisse in equo.
 5. Troiani credebant Achiuos donum Mineruae dare.
-6. Troiani credebant Achiuos isse.
-7. Nemo ex equo Achiuos vidit duces.
-8. Troiani, cum portarum praesidia interfecta essent, Troiani duces Achaeorum in equo occultatos esse intellexerunt.
+6. Troiani credebant Achiuos abisse.
+7. Nemo ex equo Achiuos vidit exisse duces.
+8. Troiani, cum portarum custodes interfecta essent, Troiani duces Achaeorum in equo occultatos esse intellexerunt.
