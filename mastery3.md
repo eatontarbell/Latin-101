@@ -1,15 +1,15 @@
 Duco femine, 3rd, singular
 - Imperfect Indicative (active): Ducebat
 - Imperfect Indicative (passive): Ducebatur
-- Imperfect Subjunctive (active):
-- Imperfect Subjunctive (passive):
-- Perfect Indicative(active):
-- Perfect Indicative (passive):
-- Pluperfect Subjunctive (active):
-- Pluperfect Subjunctive (passive):
+- Imperfect Subjunctive (active): Duceret
+- Imperfect Subjunctive (passive): Duceretur
+- Perfect Indicative(active): Duxit
+- Perfect Indicative (passive): Ducti Sumus
+- Pluperfect Subjunctive (active): Duxisset
+- Pluperfect Subjunctive (passive): Ductus Esset
 
 Infinitive of duco
-- Present (active):
+- Present (active): 
 - Present (passive):
 - Perfect (active):
 - Perfect (passive):
@@ -17,14 +17,14 @@ Infinitive of duco
 ---
 
 Audio masculine, 3rd, plural
-- Imperfect Indicative (active):
-- Imperfect Indicative (passive):
-- Imperfect Subjunctive (active):
-- Imperfect Subjunctive (passive):
-- Perfect Indicative(active):
-- Perfect Indicative (passive):
-- Pluperfect Subjunctive (active):
-- Pluperfect Subjunctive (passive):
+- Imperfect Indicative (active): Audiebant
+- Imperfect Indicative (passive): Audiebantur
+- Imperfect Subjunctive (active): Audirent
+- Imperfect Subjunctive (passive): Audirentur
+- Perfect Indicative (active): Audiverunt
+- Perfect Indicative (passive): Auditi Sunt
+- Pluperfect Subjunctive (active): Audivissent
+- Pluperfect Subjunctive (passive): Auditi Essent
 
 Infinitive of audio
 - Present (active):
@@ -34,11 +34,11 @@ Infinitive of audio
 
 ---
 sum 3rd, singular
-- Imperfect Indicative:
-- Imperfect Subjunctive:
-- Perfect Indicative:
-- Pluperfect Subjunctive:
+- Imperfect Indicative: Erat
+- Imperfect Subjunctive: Esset
+- Perfect Indicative: Fuit
+- Pluperfect Subjunctive: Fuisset
 
 Infinitive of sum
-- Present:
-- Perfect:
+- Present: esse
+- Perfect: fuisse
