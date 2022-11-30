@@ -1,5 +1,5 @@
 Cydippe misit boves in agrum, sed illi non aderant ad tempus. 
-Sacra duci debebant et sacerdos numquam adfui templum, sed datum se non in uiam. 
+Sacra duci debebant et sacerdos debebat adesse, sed datum se non in uiam. 
 Cleops et Bitias volebat deducere fanum matrem, illi iunxerunt sub iugo.
 Ille tractabant Clydippen, illorum mater, in plaustro plus quam unus hora.
 Propter magnum factum, Clydippen precabatur ad deis.
