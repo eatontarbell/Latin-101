@@ -1,3 +1,4 @@
+**+2 Satisfactory**
 1. Cum decem annos Achaei Troiam capere non potuerunt, equum ligneum fecerunt.
 2. Hyginus dixit equum ab Epeio factum esse.
 3. Duces Achiuorum se abscondiderunt in equo.
