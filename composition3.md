@@ -1,6 +1,6 @@
-Cum Achivi non potuisse cepisse Troia decem annōs, equum ligneum fēcerunt.
-Hyginus scribsit equum ab Epeio factum esse.
+Cum Achivi non potuissemus cepere Troia decem annōs, equum ligneum fēcerunt.
+Hyginus scripsit equum ab Epeio factum esse.
 Duces Achiuorum se abscondiderunt in equo.
-Cassandra dicebat Duce graecorum in equo esse.
+Cassandra dicebat Duces graecorum in equo esse.
 Troiani credebant Achiuos abisse.
-Cum nox, Troianis equum pro tempo posuerunt, Achivi exeo equo, et potiori Troiae.
+Cum illa nocte, Troiani equum pro tempo posuerunt, Achivi exirunt exequo, et potiti sunt Troiae.
