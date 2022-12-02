@@ -1,4 +1,4 @@
-Cum Achivi non potuissemus cepere Troia decem annōs, equum ligneum fēcerunt.
+Cum Achivi non potuissent capere Troia decem annōs, equum ligneum fēcerunt.
 Hyginus scripsit equum ab Epeio factum esse.
 Duces Achiuorum se abscondiderunt in equo.
 Cassandra dicebat Duces graecorum in equo esse.
